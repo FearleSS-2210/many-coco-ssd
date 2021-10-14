@@ -1,0 +1,37 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: url("scanning.gif");
+}
+
+#heading {
+    color: white;
+    font-family: fantasy;
+}
+
+.logo {
+    width: 170px;
+    height: 150px;
+}
+
+.status {
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+canvas {
+    border-width: 0px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    box-shadow: 10px 10px 10px rgb(255, 255, 255);
+    margin-top: 100px;
+}
+
+#HH {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
